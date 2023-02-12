@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="源.cpp" />
     <ClCompile Include="结构体指针.cpp" />
+    <ClCompile Include="结构体排序demo.cpp" />
     <ClCompile Include="结构体数组.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

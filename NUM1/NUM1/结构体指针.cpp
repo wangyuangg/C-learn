@@ -10,7 +10,7 @@ struct Student {
 
 };
 
-int main() {
+int main3() {
 	Student s1 = { "ÕÅÈı",45,80 };
 
 	Student* p = &s1;

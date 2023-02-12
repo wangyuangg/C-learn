@@ -10,13 +10,13 @@ struct Student {
 
 };
 
-int main()2 {
+int main2() {
 	Student  stuArray[3] = {
 		{"张三" , 10 , 50},
 		{"李四" , 11 , 60},
-		{"王五" , 12 , 70}
+		{"王五" , 12 , 70},
 
 	};
-
+	return 0;
 	
 }
