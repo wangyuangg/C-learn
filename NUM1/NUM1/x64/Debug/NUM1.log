@@ -1,5 +1,5 @@
-﻿  引用.cpp
-  结构体指针.cpp
-  结构体排序demo.cpp
+﻿  封装.cpp
+C:\Users\admin\Desktop\Cpp\NUM1\NUM1\封装.cpp(23,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  引用.cpp
   正在生成代码...
   NUM1.vcxproj -> C:\Users\admin\Desktop\Cpp\NUM1\x64\Debug\NUM1.exe

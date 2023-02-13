@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="封装.cpp" />
     <ClCompile Include="引用.cpp" />
     <ClCompile Include="源.cpp" />
     <ClCompile Include="结构体指针.cpp" />
