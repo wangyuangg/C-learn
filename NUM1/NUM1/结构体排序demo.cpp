@@ -41,6 +41,9 @@ int main() {
 		{"ÕÅ·É",20,"ÄĞ"},
 		{"ÕÔÔÆ",21,"ÄĞ"},
 		{"ïÚ²ú",19,"Å®"},
+
+
+
 	};
 	int len = sizeof(heroArray) / sizeof(heroArray[0]);
 	//for (int i = 0; i < len; i++) {
