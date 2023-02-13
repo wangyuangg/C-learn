@@ -33,7 +33,7 @@ void printArray(struct hero heroArray[], int len)
 	}
 }
 
-int main() {
+int main4() {
 	hero heroArray[5] = 
 	{
 		{"Áõ±¸",23,"ÄĞ"},
