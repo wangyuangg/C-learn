@@ -22,6 +22,9 @@ int main()
 	Cone.r = 10;
 	int result = Cone.get();
 	cout << result;
+
+
+
 	system("pause");
 	return 0;
 
