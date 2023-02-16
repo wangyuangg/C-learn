@@ -24,7 +24,7 @@ int main()
 	cout << result;
 
 
-
+	as;
 
 
 	cout << "hello" << endl;
